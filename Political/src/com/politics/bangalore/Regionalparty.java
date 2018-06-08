@@ -7,5 +7,5 @@ public class Regionalparty {
 System.out.println("collecting data about political parties"); 
 		System.out.println("having fun doing this ");
 	}
-
+ghkyudhdtjdtu
 }
