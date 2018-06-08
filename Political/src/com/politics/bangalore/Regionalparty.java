@@ -1,5 +1,5 @@
 package com.politics.bangalore;
-
+uitudftudyjufyfy
 public class Regionalparty {
 
 	public static void main(String[] args) {
